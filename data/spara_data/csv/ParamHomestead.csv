@@ -1,0 +1,20 @@
+Unnamed: 0,Value
+Predict_Days,80.0
+Hospital_Market_Share,0.03
+Population,2719030.0
+Infected,10588.0
+Death,270.0
+Recovered,0.0
+Hospitalized_Patient,12.0
+Hospitalized_Percentage,0.47047527604416706
+Hospital_Average_Stay,5.40372837928541
+ICU_Percentage,0.06020408163265306
+ICU_Average_Stay,18.6786188271604
+Ventilator_Percentage,0.0351503759398496
+Ventilator_Average_Days,11.6
+Double_time,5.5
+Duration_of_Immunization,60.0
+Death_Rate,0.022
+Mean_Latent_Period,14.0
+Mean_recovery_time,14.0
+Social_Distance,0.5
